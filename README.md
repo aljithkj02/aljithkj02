@@ -1,6 +1,6 @@
 ### Hi there, I'm Aljith K J! 👋
 
-I’m a **MERN Stack Developer** with 2 years of experience building scalable web applications. Passionate about crafting high-performance applications with a strong focus on user experience, backend optimization, and modern web technologies.
+A **MERN Stack Developer** with 2 years of experience building scalable web applications. Passionate about crafting high-performance applications with a strong focus on user experience, backend optimization, and modern web technologies.
 
 ---
 
