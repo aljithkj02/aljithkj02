@@ -1,15 +1,15 @@
-### Hi there, I'm Aljith K J! 👋
+### Hi there, Aljith K J here! 👋
 
-A **MERN Stack Developer** with 2 years of experience building scalable web applications. Passionate about crafting high-performance applications with a strong focus on user experience, backend optimization, and modern web technologies.
+A **MERN Stack Developer** with 2 years of experience in building scalable web applications. Passionate about crafting high-performance applications with a strong focus on user experience, backend optimization, and modern web technologies.
 
 ---
 
-### 🚀 About Me
+### 🚀 Professional Experience
 - 🔭 Currently working at **Festa World** as a Full Stack Engineer.
-- 💡 Previously worked at **GammaEdge**, where I developed secure, scalable solutions.
-- 🌱 Always learning and exploring new technologies to enhance my skills.
-- 💬 Ask me about **React, Next.js, Nest.js, MongoDB, PostgreSQL, and Docker**.
-- 📫 Reach me at: [aljithkj02@gmail.com](mailto:aljithkj02@gmail.com)
+- 💡 Previously contributed at **GammaEdge**, developing secure and scalable solutions.
+- 🌱 Continuously exploring new technologies to enhance development expertise.
+- 💬 Expertise in **React, Next.js, Nest.js, MongoDB, PostgreSQL, and Docker**.
+- 📫 Contact: [aljithkj02@gmail.com](mailto:aljithkj02@gmail.com)
 - 🌍 Based in **Thrissur, Kerala**.
 
 ---
@@ -38,9 +38,9 @@ A **MERN Stack Developer** with 2 years of experience building scalable web appl
 ---
 
 ### 🏆 GitHub Stats
-![Aljith's GitHub stats](https://github-readme-stats.vercel.app/api?username=aljithkj02&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aljithkj02&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljithkj02&layout=compact&theme=radical)](https://github.com/aljithkj02)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aljithkj02&layout=compact&theme=radical)](https://github.com/aljithkj02)
 
 ---
 
@@ -59,7 +59,7 @@ A **MERN Stack Developer** with 2 years of experience building scalable web appl
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aljith-kj-033213233/) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4081?style=for-the-badge)](https://aljithkj02.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4081?style=for-the-badge)](https://aljithkj-portfolio.netlify.app/)
 
 ---
 
